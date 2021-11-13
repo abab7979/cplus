@@ -1,0 +1,28 @@
+/*#include <iostream>
+#include <cstring>
+using namespace std;
+
+int main() {
+	//최대 정수 찾기
+	int arr[10] = { 2, 71, 59, 33, 94, 25 };
+	char str[] = "game over!";
+
+	//최대 정수 찾기
+	int maxVal = arr[0];  //맨 앞 숫자 최대값으로 설정
+	for (int i = 0; i < 6; i++)
+		if (maxVal < arr[i]) maxVal = arr[i];
+
+	cout << "maxVal=" << maxVal << endl;
+
+	//최대 문자 찾기
+	cout << strlen(str) << endl ;
+	char maxChar = str[0];  //맨 앞 숫자 최대값으로 설정
+	for (int i = 0; i < strlen(str); i++)
+		if (maxChar < str[i]) maxChar = str[i];
+
+	cout << "maxChar=" << maxChar << endl;
+
+	return 0;
+
+
+}*/
