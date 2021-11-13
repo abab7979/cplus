@@ -139,7 +139,9 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="guess_number.cpp" />
     <ClCompile Include="math_ex.cpp" />
+    <ClCompile Include="rand_ex.cpp" />
     <ClCompile Include="time_ex.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
