@@ -1,4 +1,4 @@
-#include <iostream>
+/*#include <iostream>
 #include <cstdlib>
 using namespace std;
 
@@ -35,3 +35,4 @@ int main() {
 	cout << "최종점수" << (10 - i) * 10 << endl;
 	return 0;
 }
+*/
